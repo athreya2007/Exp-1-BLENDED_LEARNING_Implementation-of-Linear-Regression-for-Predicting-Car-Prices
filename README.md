@@ -134,13 +134,15 @@ ax2.set_title("Q-Q Plot")
 # In[ ]:
 
 
-
-
-
 ```
 
 ## Output:
+<img width="1920" height="1080" alt="Screenshot (258)" src="https://github.com/user-attachments/assets/97e71273-7338-47a0-8c2f-25f28a65df2c" />
 
+
+<img width="1920" height="1080" alt="Screenshot (257)" src="https://github.com/user-attachments/assets/3cb64431-edb0-460d-97a9-0d4c53b5cf26" />
+
+<img width="1920" height="1080" alt="Screenshot (256)" src="https://github.com/user-attachments/assets/78d62c45-28bb-4e2e-93cb-3bdd191c8e1d" />
 
 
 ## Result:
